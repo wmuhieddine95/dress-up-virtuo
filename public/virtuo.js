@@ -28,11 +28,11 @@ const VIRTUO = (() => { //eslint-disable-line
    * @param  {Date} end
    * @return {Integer}
    */
-  var getDays = function getDays (begin, end) {
-    begin = new Date(begin).getTime();
-    end = new Date(end).getTime();
+  var getDays = (begin, end) => {
+    const beginMs = new Date(begin).getTime();
+    const endMs = new Date(end).getTime();
 
-    return Math.floor((end - begin) / MS_PER_DAY) + 1;
+    return Math.floor(Math.abs(endMs - beginMs) / MS_PER_DAY) + 1;
   };
 
   /**

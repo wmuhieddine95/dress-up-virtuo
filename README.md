@@ -80,7 +80,9 @@ Once steps done from [virtuo](https://github.com/92bondstreet/virtuo) repository
 
 ### Don't forget
 
-**Focus only on web design, forgot codebase**
+1. **Focus only on web design, you don't need to modify the codebase**
+2. **You don't need to update the [public/virtuo.js](./public/virtuo.js) file**
+3. **If you change the [public/index.html](./public/index.html) selectors, you should probably update [public/virtuo.js](./public/virtuo.js) and [public/index.js](./public/index.js) files**
 
 ## Awesome and useless frameworks
 
