@@ -59,6 +59,10 @@ $300 Million
 
 ---
 
+$300 Million
+
+---
+
 🎯 Build a clean page that computes the debit and credit price of each actors
 
 ---
@@ -68,6 +72,18 @@ $300 Million
 ---
 
 ## [92bondstreet/dress-up-virtuo](https://github.com/92bondstreet/dress-up-virtuo)
+
+---
+
+![repo](./repo.png)
+
+---
+
+![form](./form.png)
+
+---
+
+![form-results](./form-results.png)
 
 ---
 
@@ -104,10 +120,6 @@ $300 Million
 ---
 
 ![form](./form.png)
-
----
-
-![form-results](./form-results.png)
 
 ---
 
